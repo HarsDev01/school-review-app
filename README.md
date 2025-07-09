@@ -15,5 +15,5 @@
 
 4. Run the app  
    `python app.py`
-## 🔗 Demo Walkthrough Video[🎬 Watch Video on Google Drive](https://drive.google.com/file/d/1Y9t_RmuR8_WhwBVCWDpMgWiTX7mCTlid/view?usp=sharing)
+## 🔗 Demo Walkthrough Video[🎬 Click here to watch the demo](https://drive.google.com/file/d/1Y9t_RmuR8_WhwBVCWDpMgWiTX7mCTlid/view?usp=sharing)
 
